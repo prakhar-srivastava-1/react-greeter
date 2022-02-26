@@ -1,5 +1,5 @@
 # react-greeter
-Created with CodeSandbox
+https://c60cw1.csb.app/
 
 A greeter web app in React which greets you based on time.
 
