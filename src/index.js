@@ -31,7 +31,7 @@ var timeOfDay = new Date().getHours();
 console.log();
 if (timeOfDay > 0 && timeOfDay <= 12) {
   choice = greetings.morning;
-} else if (timeOfDay > 12 && timeOfDay <= 6) {
+} else if (timeOfDay > 12 && timeOfDay <= 18) {
   choice = greetings.afternoon;
 } else {
   choice = greetings.evening;
